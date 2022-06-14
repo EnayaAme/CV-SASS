@@ -1,0 +1,23 @@
+{
+  "name": "cv-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "style": "sass --watch SASS/style.scss SASS/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnayaAme/CV-SASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnayaAme/CV-SASS/issues"
+  },
+  "homepage": "https://github.com/EnayaAme/CV-SASS#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}
